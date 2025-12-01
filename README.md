@@ -26,4 +26,4 @@ My specialization is **Growth Hacking and Conversion Rate Optimization (CRO)** f
 I am always open to discussing new ideas and challenging projects!
 
 📧 **Email:** luanbaptista.contato@gmail.com
-💼 **LinkedIn:** [[Your LinkedIn link here](https://www.linkedin.com/in/luanbaptistaa/)]
+💼 **LinkedIn:** [[Linkedin](https://www.linkedin.com/in/luanbaptistaa/)]
