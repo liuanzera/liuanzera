@@ -18,7 +18,7 @@ My expertise lies in **Growth Hacking and Conversion Rate Optimization (CRO)**, 
 * **Design:** Figma (I’m a pro, especially with Design Systems), Adobe Creative Suite, Framer, Webflow.
 * **Optimization:** Conversion Rate Optimization (CRO), A/B Testing, UX Research & Usability Testing.
 * **Product:** Wireframing / Prototyping, Generative AI.
-
+* **Programming Literacy (Basic/Handoff):** **HTML**, **CSS**, **Java Script** 
 ---
 
 ## 🌎 How to Find Me
