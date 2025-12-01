@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Luan Baptista.
 
-I'm a **UI/UX Designer & Product Designer** with 3.5 years of remote experience, dedicated to turning complex requirements into **High-Converting Digital Products**.
+I'm a **Product Designer & Web Designer** with 3.5 years of remote experience, dedicated to turning complex requirements into **High-Converting Digital Products**.
 
 My expertise lies in **Growth Hacking and Conversion Rate Optimization (CRO)**, particularly for B2B and high-volume e-commerce clients. I make sure that my designs not only look great but also deliver **measurable business results**.
 
